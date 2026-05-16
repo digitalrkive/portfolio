@@ -13,12 +13,12 @@ export default function Contact() {
 
         <p className="contact-sub">
           somewhere between the stars and the screen.
-          drop a message into the void —
-          i usually reply.
+          drop a message into the void...
+          I usually reply.
         </p>
 
         <a href="mailto:henna@hennaisjustdagoat.com" className="contact-email">
-          justherkive@outlook.com ↗
+          Henna.msn@gmail.com↗
         </a>
 
         <div className="contact-links">
@@ -33,7 +33,7 @@ export default function Contact() {
 
       <div className="contact-footer">
         <span className="footer-mono">hennaisjustdagoat.com</span>
-        <span className="footer-mono">built for fun </span>
+        <span className="footer-mono">built for fun lol </span>
       </div>
     </section>
   )

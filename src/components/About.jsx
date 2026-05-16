@@ -17,27 +17,27 @@ export default function About() {
 
         <div className="about-right">
           <p className="about-statement">
-            CS graduate. Junior dev. Chronic 3am researcher.
+            Chronic 3am researcher.
           </p>
 
-          <div className="about-manifesto">
-            <p>
-              I got into coding because I wanted to make things look
-              <span className="highlight"> unreasonably good.</span> Turns
-              out I also love the logic. The problem. The long debug
-              session that ends with a missing semicolon.
-            </p>
-            <p>
-              The Movie Interstellar broke my brain in the best way. That sense of
-              scale — of something
-              <span className="highlight"> so vast it makes you feel small</span>
-              — that's what I'm chasing when I design anything.
-            </p>
-            <p>
-              When I'm not at a screen I'm moving. Running. Lifting.
-              Calisthenics. The body needs as much work as the code.
-            </p>
-          </div>
+         <div className="about-manifesto">
+  <p>
+    I got into coding because I wanted to make things look
+    <span className="highlight"> unreasonably good.</span>. Somehow
+    ended up actually enjoying the technical side too. Still figuring
+    out where one ends and the other begins.
+  </p>
+  <p>
+    I go down rabbit holes at 3am for fun. Black holes, ancient
+    civilisations, unsolved mysteries, why certain things exist,
+    <span className="highlight"> if it's random and fascinating </span>
+    I'm probably already 40 tabs deep into it.
+  </p>
+  <p>
+    Outside of coding I'm either running, lifting or doing calisthenics.
+    Keeps me from going fully feral staring at a screen all day.
+  </p>
+</div>
 
           <div className="about-words">
             <span>space</span>

@@ -24,7 +24,7 @@
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   letter-spacing: 0.3em;
-  color: rgba(160, 120, 255, 0.4);
+  color: rgba(160, 120, 255, 0.6);
   text-transform: uppercase;
   margin-bottom: 24px;
   display: flex;
@@ -36,7 +36,7 @@
   content: '';
   width: 32px;
   height: 1px;
-  background: rgba(160, 120, 255, 0.4);
+  background: rgba(160, 120, 255, 0.6);
   display: inline-block;
   flex-shrink: 0;
 }
@@ -52,7 +52,7 @@
 
 .dim {
   font-size: clamp(60px, 10vw, 120px);
-  color: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.25);
   font-weight: 700;
 }
 
@@ -94,13 +94,13 @@
 .hero-sub {
   font-family: 'Space Mono', monospace;
   font-size: 11px;
-  color: rgba(255, 255, 255, 0.22);
+  color: rgba(255, 255, 255, 0.38);
   line-height: 2.2;
   max-width: 340px;
 }
 
 .hero-sub em {
-  color: rgba(160, 120, 255, 0.6);
+  color: rgba(160, 120, 255, 0.7);
   font-style: normal;
 }
 
@@ -108,7 +108,7 @@
   font-family: 'Space Mono', monospace;
   font-size: 9px;
   letter-spacing: 0.35em;
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.21);
   text-transform: uppercase;
   writing-mode: vertical-rl;
   text-orientation: mixed;

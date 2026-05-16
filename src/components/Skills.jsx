@@ -6,13 +6,13 @@ const skills = [
     name: 'HTML',
     level: 90,
     tag: 'solid',
-    detail: 'My foundation. I can structure anything — semantic, accessible, clean. The thing everything else is built on top of.',
+    detail: 'My foundation. I can structure anything, accessible, clean. The thing everything else is built on top of.',
   },
   {
     name: 'CSS',
     level: 85,
     tag: 'solid',
-    detail: 'This is where my design brain kicks in. Animations, layouts, responsive design — I genuinely enjoy CSS more than most people think is normal.',
+    detail: 'This is where my design brain kicks in. Animations, layouts, responsive design :D I genuinely enjoy CSS more than most people think is normal.',
   },
   {
     name: 'JavaScript',
@@ -24,7 +24,7 @@ const skills = [
     name: 'React',
     level: 55,
     tag: 'growing',
-    detail: 'Components, props, state, hooks, context — I get it. Still building experience but already shipping real projects with it.',
+    detail: 'Components, props, state, hooks, context . Still building experience but games the game.',
   },
   {
     name: 'Git',

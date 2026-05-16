@@ -2,7 +2,7 @@
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   letter-spacing: 0.35em;
-  color: rgba(160, 120, 255, 0.45);
+  color: rgba(160, 120, 255, 0.6);
   text-transform: uppercase;
   margin-bottom: 56px;
 }
@@ -35,7 +35,7 @@
   font-family: 'Space Grotesk', sans-serif;
   font-size: clamp(36px, 5vw, 64px);
   font-weight: 700;
-  color: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.25);
 }
 
 .ah-bright {
@@ -50,7 +50,7 @@
   font-size: clamp(36px, 5vw, 64px);
   font-weight: 700;
   color: transparent;
-  -webkit-text-stroke: 1px rgba(160, 120, 255, 0.35);
+  -webkit-text-stroke: 1px rgba(160, 120, 255, 0.5);
   font-style: italic;
 }
 
@@ -64,7 +64,7 @@
   font-family: 'Space Mono', monospace;
   font-size: 11px;
   letter-spacing: 0.2em;
-  color: rgba(160, 120, 255, 0.5);
+  color: rgba(160, 120, 255, 0.64);
   text-transform: uppercase;
   padding-bottom: 24px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.04);
@@ -79,7 +79,7 @@
 .about-manifesto p {
   font-family: 'Space Grotesk', sans-serif;
   font-size: 15px;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 0.47);
   line-height: 1.9;
   font-weight: 300;
 }
@@ -102,12 +102,12 @@
   font-family: 'Space Mono', monospace;
   font-size: 11px;
   letter-spacing: 0.1em;
-  color: rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.34);
   text-transform: lowercase;
 }
 
 .about-words .slash {
-  color: rgba(160, 120, 255, 0.3);
+  color: rgba(160, 120, 255, 0.45);
   font-size: 14px;
   letter-spacing: 0;
 }
