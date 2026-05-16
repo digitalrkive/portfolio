@@ -7,7 +7,6 @@ const projects = [
     name: 'DashBuddy',
     desc: 'Personal productivity dashboard with clock, tasks, flashcards and Rocky quotes. (more to come)',
     tech: ['HTML', 'CSS', 'JavaScript'],
-    link: 'https://github.com/digitalrkive/dashbuddy',
     detail: 'A fully client-side dashboard app. No frameworks, no dependencies, just vanilla JS doing a lot of heavy lifting. Taught me how to structure a real project from scratch.',
   },
   {
@@ -64,9 +63,6 @@ export default function Projects() {
               {active.tech.map(t => <span key={t} className="proj-tag">{t}</span>)}
             </div>
             <div className="popup-actions">
-              <a href={active.link} target="_blank" rel="noreferrer" className="popup-link">
-                View on GitHub ↗
-              </a>
               <button className="popup-close" onClick={() => setActive(null)}>
                 close
               </button>
