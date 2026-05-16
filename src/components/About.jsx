@@ -22,13 +22,13 @@ export default function About() {
 
           <div className="about-manifesto">
             <p>
-              I got into code because I wanted to make things look
+              I got into coding because I wanted to make things look
               <span className="highlight"> unreasonably good.</span> Turns
-              out I also love the logic. The problem. The 4 hour debug
+              out I also love the logic. The problem. The long debug
               session that ends with a missing semicolon.
             </p>
             <p>
-              Interstellar broke my brain in the best way. That sense of
+              The Movie Interstellar broke my brain in the best way. That sense of
               scale — of something
               <span className="highlight"> so vast it makes you feel small</span>
               — that's what I'm chasing when I design anything.
