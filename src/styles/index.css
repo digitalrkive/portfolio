@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #020008;
+  color: #fff;
+  font-family: 'Space Grotesk', sans-serif;
+  overflow-x: hidden;
+}
+
+:root {
+  --mx: 0px;
+  --my: 0px;
+}
+
+.n1 { transform: translate(var(--mx), var(--my)); }
+.n2 { transform: translate(calc(var(--mx) * -0.6), calc(var(--my) * 0.8)); }
