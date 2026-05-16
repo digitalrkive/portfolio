@@ -18,7 +18,7 @@ export default function Hero() {
       <div className="hero-inner">
         <p className="hero-tag">cs graduate · junior software eng · space nerd</p>
         <h1 className="hero-name">
-          <span className="dim">henna</span>
+          <span className="dim">Henna</span>
           <span className="accent">is just</span>
           <span className="bright">da goat.</span>
         </h1>
