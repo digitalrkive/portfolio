@@ -5,10 +5,10 @@ const projects = [
   {
     num: '01',
     name: 'DashBuddy',
-    desc: 'Personal productivity dashboard with clock, tasks, flashcards and Rocky quotes.',
+    desc: 'Personal productivity dashboard with clock, tasks, flashcards and Rocky quotes. (more to come)',
     tech: ['HTML', 'CSS', 'JavaScript'],
     link: 'https://github.com/digitalrkive/dashbuddy',
-    detail: 'A fully client-side dashboard app. No frameworks, no dependencies — just vanilla JS doing a lot of heavy lifting. Taught me how to structure a real project from scratch.',
+    detail: 'A fully client-side dashboard app. No frameworks, no dependencies, just vanilla JS doing a lot of heavy lifting. Taught me how to structure a real project from scratch.',
   },
   {
     num: '02',
@@ -16,7 +16,7 @@ const projects = [
     desc: 'White-label React platform for mosques and Islamic centres.',
     tech: ['React', 'Vite', 'JSX'],
     link: 'https://github.com/HikamSoftware/tenant-website',
-    detail: 'A reusable site platform where swapping one config file changes the entire client. Built for real organisations — proper component architecture, prayer times API, the works.',
+    detail: 'A reusable site platform where swapping one config file changes the entire client. Built for real organisations, proper component architecture, prayer times API, the works.',
   },
   {
     num: '03',
@@ -24,7 +24,7 @@ const projects = [
     desc: 'Built from scratch. No templates. Pure obsession.',
     tech: ['React', 'CSS', 'Canvas'],
     link: '#',
-    detail: 'Designed and built entirely by me. Animated starfield on canvas, drifting nebulas, the whole thing. Because why have a boring portfolio.',
+    detail: 'Designed and built by me. Spent a while drafting the page layout on Canva ofc. Because why have a boring portfolio. This is like my second beepboop child (DashBuddy is No.1 duh)',
   },
 ]
 
