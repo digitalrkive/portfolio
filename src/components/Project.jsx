@@ -15,15 +15,13 @@ const projects = [
     name: 'Tenant Website',
     desc: 'White-label React platform for mosques and Islamic centres.',
     tech: ['React', 'Vite', 'JSX'],
-    link: 'https://github.com/HikamSoftware/tenant-website',
     detail: 'A reusable site platform where swapping one config file changes the entire client. Built for real organisations, proper component architecture, prayer times API, the works.',
   },
   {
     num: '03',
     name: 'This Portfolio',
-    desc: 'Built from scratch. No templates. Pure obsession.',
+    desc: 'Built from scratch. No templates. Just having fun.',
     tech: ['React', 'CSS', 'Canvas'],
-    link: '#',
     detail: 'Designed and built by me. Spent a while drafting the page layout on Canva ofc. Because why have a boring portfolio. This is like my second beepboop child (DashBuddy is No.1 duh)',
   },
 ]
